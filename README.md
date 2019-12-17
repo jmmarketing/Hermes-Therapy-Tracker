@@ -1,4 +1,5 @@
 # [Hermes Therapy Tracker](https://hermes-tracker.herokuapp.com/)
+## [Original Group Repo] (https://github.com/carenbriones/Hermes)
 The Hermes Therapy Tracker is a web application that allows guardians with children in therapy to track their child's progress.
 
 Users may register an account, where they may fill out a form to add a child (or multiple children) to their account.  
